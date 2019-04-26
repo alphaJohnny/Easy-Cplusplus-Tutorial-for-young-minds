@@ -31,4 +31,6 @@
 *.out
 *.app
 
+# IDE
 .vscode
+compiling_error.txt

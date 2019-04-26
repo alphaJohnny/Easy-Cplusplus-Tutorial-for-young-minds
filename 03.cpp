@@ -38,15 +38,12 @@
 **/
 
 // Now let's use them in our code
-int int main(int argc, char const *argv[]) {
+int main(int argc, char const *argv[]) {
   char my_first_character; // this is going to be exactly 8 bits
   char16_t my_first_char16_t;
   char32_t my_first_char32_t;
-  char64_t my_first_char64_t;
   wchar_t this_is_the_longest_char_possible;
 // now lets talk about number types, first Integers
-
-  int my-first-integer;
 
   return 0;
 }

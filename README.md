@@ -17,3 +17,17 @@ I believe C++ is an amazing language and should be the first choice of everyone.
 - Most importantly, with C++ you are productive much sooner and much more often.  With most other languages, a developers are constantly pulling their hair out learning new tools, new libraries, new versions. Just catching up seems to be an endless loop. Forget about being productive. C++ allows you to work off a stable, well documented base and spend more time being productive.
 
 - Delivering lasting value. I find that almost any software product that delivers lasting value, lasts the test of time, has actually been written on C++. Let me count a few - Windows, Linux, Git. Products written in other languages are perhaps not thought through well, perhaps not designed well, perhaps are meant as a short term band-aid solution. I am not sure of the precise reason, but they don't seem to be standing the test of time.
+
+## Prefered compilation is
+```c++
+g++ -std=c++11
+```
+
+## Installation of GNU utilities on MAC OS
+
+https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
+An updated GIST with all these commands is
+https://gist.github.com/alphaJohnny/f3333217797e4ff506e3ddd0e9212f2b
+
+## Coding standards
+https://gist.github.com/lefticus/10191322
