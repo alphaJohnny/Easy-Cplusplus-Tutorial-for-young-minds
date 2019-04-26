@@ -32,4 +32,6 @@ int main() { // a main function is the main entry point for the program. This sh
 // if by anychance your compiler did not make it executable, on linux system we have permissions and you can grant them by
 // chmod +x ./a.out
 // the command here is CHange MODe + eXecutable followed by name of file
-//
+// If you do not like that your compiler named it as a.out, then you can either change the name yourself or fire this command
+// g++ -o my01.exe 01.cpp
+// where my01.exe is the name you want to give and 01.cpp is your c++ file that you wrote (this file)
