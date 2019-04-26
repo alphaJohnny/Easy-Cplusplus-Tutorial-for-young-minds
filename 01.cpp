@@ -35,3 +35,11 @@ int main() { // a main function is the main entry point for the program. This sh
 // If you do not like that your compiler named it as a.out, then you can either change the name yourself or fire this command
 // g++ -o my01.exe 01.cpp
 // where my01.exe is the name you want to give and 01.cpp is your c++ file that you wrote (this file)
+
+// This is a preffered way of compiling for professionals. Dollar sign here just signals the command prompt flashed to you by the computer.
+// $g++ -W -Wall -pedantic -o programName -p sourceFile.cpp
+// -W: Print extra warning messages for some problems.
+// -Wall: Enable all the warnings about questionable code
+// -pedantic: Show all the warnings demanded by strict ISO compliance
+// -o programName: place the executable output in programName sourceFile.cpp: the
+// name of our source code file
